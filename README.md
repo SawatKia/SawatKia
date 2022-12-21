@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SawatKia
-- 👀 I’m interested in ... new Tech,astronomy and space
-- 🌱 I’m currently learning ... computer engineer atKMITL,BKK,Thailand
+- 👀 I’m interested in ... new Technology ,astronomy and space
+- 🌱 I’m currently learning ... computer engineer at KMITL,BKK,Thailand
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
