@@ -1,4 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sawat Lapprasertlum
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=SawatKia&style=flat-square&color=blue" alt="counter" />
+</div>
+
+
+
+Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sawat Lapprasertlum
 ===========================================================================================================================================
 
 Hello! I'm Sawat. Currently, I'm in my final year studying Computer Engineering at KMITL. I enjoy developing tools that solve everyday problems. My primary interest lies in Web Development, particularly in both Front-end and Back-end aspects. However, I have more experience in Back-end development using Node.js. Additionally, I'm fascinated by AI and machine learning and enjoy exploring these fields in my free time.
